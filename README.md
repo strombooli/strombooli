@@ -13,8 +13,8 @@ My name is Jason Ying, currently learing in senior high school.
 
 #### 2. My GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-Ying)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Ying&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-Ying)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Ying&hide=tex)]()
 
 #### 3. My Github Repos
 

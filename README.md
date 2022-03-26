@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Jason-Ying/Jason-Ying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 1. Some Basic Info
 
-Here are some ideas to get you started:
+My name is Jason Ying, currently learing in senior high school. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning HTML/PHP/
+- 💬 Ask me about any **basic** programming stuff ranging from HTML/JavaScript/PHP to C++.
+- 📫 How to reach me: [yx.ying@outlook.com](mailto:yx.ying@outlook.com) for more formal issues or [Jasonying2021@gmail.com](mailto:Jasonying2021@gmail.com) otherwise.
+- 😄 Pronouns: He.
+- ⚡ Fun fact: PHP is the best language on the world!
+
+#### 2. My GitHub Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-Ying)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Ying&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 3. My Github Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-Ying&repo=screening-register)](https://github.com/Jason-Ying/screening-register)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EasonSYC&repo=sesticket)](https://github.com/EasonSYC/sesticket)

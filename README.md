@@ -15,9 +15,3 @@ My name is Jason Ying, currently learing in senior high school.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-Ying)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Ying&hide=tex)]()
-
-#### 3. My Github Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-Ying&repo=countdown)](https://github.com/Jason-Ying/countdown)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-Ying&repo=group-purchase-register)](https://github.com/Jason-Ying/group-purchase-register)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-Ying&repo=screening-register)](https://github.com/Jason-Ying/screening-register)

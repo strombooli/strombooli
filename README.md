@@ -4,7 +4,7 @@
 
 My name is Jason Ying, currently learning in senior high school. 
 
-- 🔭 I’m currently working on a project that can tell that my schoolmates are my schoolmates.
+- 🔭 I’m currently working on random projects.
 - 🌱 I’m currently learning JavaScript/PHP/SQL.
 - 💬 Ask me about any **basic** programming stuff ranging from HTML/JavaScript/PHP to C++.
 - 📫 How to reach me: [yx.ying@outlook.com](mailto:yx.ying@outlook.com) for more formal issues or [Jasonying2021@gmail.com](mailto:Jasonying2021@gmail.com) otherwise.

@@ -2,7 +2,7 @@
 
 #### 1. Some Basic Info
 
-My name is Jason Ying, currently learing in senior high school. 
+My name is Jason Ying, currently learning in senior high school. 
 
 - 🔭 I’m currently working on a project that can tell that my schoolmates are my schoolmates.
 - 🌱 I’m currently learning JavaScript/PHP/SQL.

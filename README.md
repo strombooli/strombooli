@@ -13,5 +13,5 @@ My name is Jason.
 
 #### 2. My GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-Ying)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Ying&hide=html,tex)]()
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=strombooli)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strombooli&hide=html,tex)]()

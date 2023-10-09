@@ -2,14 +2,14 @@
 
 #### 1. Some Basic Info
 
-My name is Jason Ying, currently learning in senior high school. 
+My name is Jason.
 
 - 🔭 I’m currently working on random projects.
 - 🌱 I’m currently learning JavaScript/PHP/SQL.
 - 💬 Ask me about any **basic** programming stuff ranging from HTML/JavaScript/PHP to C++.
 - 📫 How to reach me: [yx.ying@outlook.com](mailto:yx.ying@outlook.com) for more formal issues or [Jasonying2021@gmail.com](mailto:Jasonying2021@gmail.com) otherwise.
 - 😄 Pronouns: He.
-- ⚡ Fun fact: PHP is the best language on the world!
+- ⚡ Fun fact: PHP is the best language in the world!
 
 #### 2. My GitHub Stats
 
